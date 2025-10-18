@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon/>
+  <GameName>Hollow Knight: Silksong</GameName>
+  <CategoryName>100%</CategoryName>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory/>
+  <Metadata usesEmulator="False">
+    <Run/>
+    <Variables/>
+    <Platform/>
+  </Metadata>
+  <Segments>
+    <Segment>
+      <Name>blah</Name>
+      <SplitTimes>
+        <SplitTime>Personal Best</SplitTime>
+      </SplitTimes>
+    </Segment>
+    <Segment>
+      <Name>mask shard something something</Name>
+      <SplitTimes>
+        <SplitTime>Personal Best</SplitTime>
+      </SplitTimes>
+    </Segment>
+    <Segment>
+      <Name>mask shard something something1</Name>
+      <SplitTimes>
+        <SplitTime>Personal Best</SplitTime>
+      </SplitTimes>
+    </Segment>
+    <Segment>
+      <Name>silk!!</Name>
+      <SplitTimes>
+        <SplitTime>Personal Best</SplitTime>
+      </SplitTimes>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.0</Version>
+    <CustomSettings>
+      <Setting id="script_name" type="string" value="silksong_autosplit_wasm"/>
+      <Setting id="splits" type="list">
+        <Setting type="string" value="blah"/>
+        <Setting type="string" value="mask shard something something"/>
+        <Setting type="string" value="mask shard something something1"/>
+        <Setting type="string" value="silk!!"/>
+      </Setting>
+    </CustomSettings>
+  </AutoSplitterSettings>
+</Run>
